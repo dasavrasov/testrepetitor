@@ -4,3 +4,4 @@ import io.khasang.jrepetitor.entity.RightAns;
 
 public interface RightAnsDao extends BasicDao<RightAns> {
 }
+

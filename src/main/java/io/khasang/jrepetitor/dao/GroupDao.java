@@ -4,3 +4,4 @@ import io.khasang.jrepetitor.entity.Group;
 
 public interface GroupDao extends BasicDao<Group> {
 }
+

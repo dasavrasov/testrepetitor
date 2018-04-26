@@ -4,3 +4,4 @@ import io.khasang.jrepetitor.entity.Quiz;
 
 public interface QuizDao extends BasicDao<Quiz> {
 }
+ 

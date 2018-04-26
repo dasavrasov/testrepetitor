@@ -4,3 +4,4 @@ import io.khasang.jrepetitor.entity.Item;
 
 public interface ItemDao extends BasicDao<Item>  {
 }
+
